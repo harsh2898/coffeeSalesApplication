@@ -1,0 +1,38 @@
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\bin\Debug\Coffee_Sales.exe.config
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\obj\Debug\Coffee_Sales.frmCoffeeShop.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\obj\Debug\Coffee_Sales.Properties.Resources.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\obj\Debug\Coffee_Sales.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\bin\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\bin\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\obj\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Week4_Coffee_Sales\Week4_Coffee_Sales\obj\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe.config
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.frmCoffeeShop.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.Properties.Resources.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\PersonalPractice\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe.config
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.pdb
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.frmCoffeeShop.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.Properties.Resources.resources
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Wednesday\Wed_Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Tuesday\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe.config
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Tuesday\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.exe
+C:\Users\achawla\Documents\Visual Studio 2015\Projects\Tuesday\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.pdb
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe.config
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.exe
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.pdb
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.exe
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\bin\Debug\Coffee_Sales.pdb
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.frmCoffeeShop.resources
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.Properties.Resources.resources
+C:\Users\test\Desktop\Rapid Appllications\Coffee_Sales\Coffee_Sales\obj\Debug\Coffee_Sales.csproj.GenerateResource.Cache
